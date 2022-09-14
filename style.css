@@ -20,7 +20,7 @@ body{
     }
 
     header{
-        background-image: url(./images/desktop/image-header.jpg);
+        background-image: url('./images/mobile/image-header.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -176,7 +176,7 @@ body{
 
 @media screen and (min-width: 768px) {
     header{
-        background-image: url(./images/desktop/image-header.jpg);
+        background-image: url('./images/desktop/image-header.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
